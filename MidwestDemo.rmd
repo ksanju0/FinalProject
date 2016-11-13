@@ -1,7 +1,7 @@
 ---
-title: "Midwest Demographic Analysis"
-author: "Sanjive Kumar, Nabila Hossain, Angus Huang"
-date: "July 25, 2015"
+title:  "Final Project DATA 608: Midwest Demographic Analysis"
+author: "Sanjive Kumar"
+date: "Dec 12, 2016"
 output: html_document
   
 ---
